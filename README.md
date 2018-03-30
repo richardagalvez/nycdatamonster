@@ -1,2 +1,2 @@
 # nycdatamonster
-The analysis notebooks for nycdatascience.com
+The analysis notebooks for nycdatamonster.com
